@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/orion/Desktop/web3/hardhat1/smart-contract/contracts/ClassRegistration.sol": {
+      "lastModificationDate": 1738432286326,
+      "contentHash": "5b8ea06fec7e1164a06a27ef76fd15c7",
+      "sourceName": "contracts/ClassRegistration.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ClassRegistration"
+      ]
+    }
+  }
+}

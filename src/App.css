@@ -1,0 +1,50 @@
+body {
+  background-color: #7b1fa2;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #ff4081;
+}
+
+.form {
+  margin: 20px 0;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #ff4081;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ff79b0;
+}
+
+.student-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.student-list li {
+  background-color: #9c27b0;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
